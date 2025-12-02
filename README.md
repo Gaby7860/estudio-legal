@@ -21,3 +21,12 @@ Hosting tradicional
 Facebook / Instagram (linkeable)
 
 Código limpio en HTML, CSS y JS
+📞 Contacto
+
+El sitio incluye un botón para contactarse directamente vía WhatsApp.
+Solo actualizá el número en el código si necesitás cambiarlo.
+
+📄 Licencia
+
+Este proyecto es de uso privado para el Estudio Legal.
+No se autoriza la copia, redistribución ni reutilización sin permiso.
